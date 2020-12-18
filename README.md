@@ -1,2 +1,21 @@
 # JavaScriptProjectFiles
  This folder contains projects that demonstrate the skills I have developed through self teaching.
+
+----------------------------------------------------------------------------
+Message Mixer:
+
+is a messaging service that allows you to perform an action on input text and display the output of that behavior to the console. For example, with the current functions defined in Message Mixer, you can:
+
+count the characters in a message
+capitalize the first character of words
+reverse a message’s words in place
+reversing characters in place
+replace the first occurrence of a string
+replace all occurrences of a string
+encode text by swapping certain characters for other characters
+
+
+Using modules I fixed the messy code to make it more presentable and easier to work with by seperating functions into one file. Then used named exports in the form of variables for use in the entire program. 
+
+
+----------------------------------------------------------------------------
