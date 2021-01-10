@@ -19,3 +19,7 @@ Using modules I fixed the messy code to make it more presentable and easier to w
 
 
 ----------------------------------------------------------------------------
+BusinessOutfittedBobPhaserProject 
+
+This project was created through phaser.js 
+
