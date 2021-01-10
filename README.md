@@ -34,4 +34,11 @@ In this project, I used JavaScript to randomly create a three-course meal based 
 
 This project helped me practice creating objects and how you can use those objects to manipulate various data and store it in a cleaner process. 
 
-------------------------------------------
+----------------------------------------------------------------------------
+
+Mini Linter 
+
+In this project, I used what I knew about iterating over arrays to improve the quality of a paragraph and gather some information about that paragraph.
+
+
+----------------------------------------------------------------------------
