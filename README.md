@@ -19,7 +19,19 @@ Using modules I fixed the messy code to make it more presentable and easier to w
 
 
 ----------------------------------------------------------------------------
-BusinessOutfittedBobPhaserProject 
+BusinessOutfittedBob
 
-This project was created through phaser.js 
+This game was created using Phaser.js 
 
+here is the link to download phaser.js to your system https://phaser.io/download/stable. 
+
+The point is to collect the moneybags while avoiding the file cabinets. 
+
+----------------------------------------------------------------------------
+
+MealMaker 
+In this project, I used JavaScript to randomly create a three-course meal based on what is available on a menu. We’ll keep running it until we’re satisfied with the generated meal!
+
+This project helped me practice creating objects and how you can use those objects to manipulate various data and store it in a cleaner process. 
+
+------------------------------------------
