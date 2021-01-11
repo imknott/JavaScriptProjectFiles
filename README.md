@@ -51,3 +51,9 @@ Sleep Debt Calculator
 In this project I practiced my use of functions to calculate if you’re getting enough sleep each week using a sleep debt calculator.
 
 ----------------------------------------------------------------------------
+
+Chore Door 
+
+My project was to construct a single-page website that plays a fully-functional game. I used javascript to change the items within a given html element using .innerHTML, .getElementById. 
+
+----------------------------------------------------------------------------
