@@ -1,5 +1,5 @@
 # JavaScriptProjectFiles
- This folder contains projects that demonstrate the skills I have developed through self teaching. This projects I completed through codeacademy. 
+ This folder contains projects that demonstrate the skills I have developed through self teaching. These projects I completed through codeacademy. 
 
 ----------------------------------------------------------------------------
 
